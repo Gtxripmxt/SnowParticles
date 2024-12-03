@@ -1,3 +1,4 @@
-# Template Mod
+# It snows all over the game!
 
-Edit about.md to change this
+Check the settings to enable snow in playlayer or enable them only in the main menu
+
